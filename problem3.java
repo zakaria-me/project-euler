@@ -1,3 +1,5 @@
+package solutions;
+
 import java.math.BigInteger;
 import java.util.LinkedList;
 
@@ -41,9 +43,6 @@ public class problem3 {
         System.out.println(numberToSolve + " " + currentPrimeNumber);
         // break;
       }
-      // Sinon si
-      // le quotient est different de 1 et que le reste est different de 0: on divise
-      // le nombre par le prochain nombre premier
     }
   }
 
