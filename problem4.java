@@ -11,7 +11,6 @@ public class problem4 {
         int product = i * j;
         if (problem4.isPalindrome(product) && (product) > largestPalindrome) {
           largestPalindrome = product;
-          System.out.println(i + " " + j);
         }
       }
     }
