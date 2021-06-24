@@ -1,6 +1,4 @@
-package solutions;
 
-import java.math.BigInteger;
 import java.util.LinkedList;
 
 public class problem3 {
