@@ -1,4 +1,3 @@
-package solutions;
 
 public class problem4 {
 
